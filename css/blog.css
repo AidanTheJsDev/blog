@@ -1,0 +1,23 @@
+body {
+    background-color: #343434;
+}
+
+.header {
+    padding: 1px;
+    text-align: center;
+    background-color: #36454F;
+    color: white;
+    font-size: 25px;
+}
+
+div {
+    text-indent: 1em;
+    color: white;
+    text-align: justify;
+    font-size: 17px;
+    line-height: 26px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    font-family: consulate;
+}
