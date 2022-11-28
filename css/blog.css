@@ -27,3 +27,11 @@ img {
     display: block;
     width: 12%;
 }
+
+a {
+    color: white;
+    text-align: center;
+    font-size: large;
+    margin: auto;
+    display: block;
+}
