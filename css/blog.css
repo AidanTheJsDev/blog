@@ -21,3 +21,9 @@ div {
     hyphens: auto;
     font-family: consulate;
 }
+
+img {
+    margin: auto;
+    display: block;
+    width: 12%;
+}
